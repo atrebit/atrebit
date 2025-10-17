@@ -13,4 +13,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: $CREDLY_USER
+          CREDLY_USER: ${{ vars.CREDLY_USER }}
