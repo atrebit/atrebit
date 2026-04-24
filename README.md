@@ -1,24 +1,24 @@
 # atrebit
 
 ``````
-                          ./+o+-       atrebit@germany
-                  yyyyy- -yyyyyy+      ----------------------------------
-               ://+//////-yyyyyyo      Uptime Since: 11/94
-           .++ .:/++++++/-.+sss/`      Programming Languages: TypeScript, JavaScript
-         .:++o:  /++++++++/:--:/-      Infrastructure: Docker
-        o:+o+:++.`..```.-/oo+++++/
-       .:+o:+o/.          `+sssoo+/
-  .++/+:+oo+o:`             /sssooo.
- /+++//+:`oo+o               /::--:.
- \+/+o+++`o++o               ++////.
-  .++.o+++oo+:`             /dddhhh.
+                          ./+o+-       Role: Junior DevOps / Backend Engineer
+                  yyyyy- -yyyyyy+      
+               ://+//////-yyyyyyo      Stack:
+           .++ .:/++++++/-.+sss/`      -  Node.js (TypeScript, Next.js API)  |  PostgreSQL (Prisma ORM); Docker, GitHub Actions (CI/CD)
+         .:++o:  /++++++++/:--:/-      -  Java (Spring Boot, Maven, JVM)     |
+        o:+o+:++.`..```.-/oo+++++/     -  Python (FastAPI)                   |
+       .:+o:+o/.          `+sssoo+/    
+  .++/+:+oo+o:`             /sssooo.   Focus:
+ /+++//+:`oo+o               /::--:.   -  Automation & CI/CD
+ \+/+o+++`o++o               ++////.   -  Backend Systems & APIs
+  .++.o+++oo+:`             /dddhhh.   -  Reliability & System Design
        .+.o+oo:.          `oddhhhh+
-        \+.++o+o``-````.:ohdhhhhh+     Other
-         `:o+++ `ohhhhhhhhyo++os:      ----------------------------------
-           .o:`.syhhhhhhh/.oo++o`      developer without any idea
-               /osyyyyyyo++ooo+++/     always practicing expert
-                   ````` +oo+++o\:
-                          `oo++.
+        \+.++o+o``-````.:ohdhhhhh+     About me:
+         `:o+++ `ohhhhhhhhyo++os:      -  Junior Developer with focus on DevOps & backend systems
+           .o:`.syhhhhhhh/.oo++o`      -  Experience with CI/CD pipelines, Docker and API-based architectures
+               /osyyyyyyo++ooo+++/     -  Built a resilient middleware system for unreliable upstream services
+                   ````` +oo+++o\:     -  Strong interest in Kubernetes and Infrastructure as Code
+                          `oo++.       
 
 
 ``````
