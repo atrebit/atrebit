@@ -1,24 +1,72 @@
-# atrebit
+# Fabio Böttcher
 
-``````
-                          ./+o+-       Role: Junior DevOps / Backend Engineer
-                  yyyyy- -yyyyyy+      
-               ://+//////-yyyyyyo      Stack:
-           .++ .:/++++++/-.+sss/`      -  Node.js (TypeScript, Next.js API)  |  PostgreSQL (Prisma ORM); Docker, GitHub Actions (CI/CD)
-         .:++o:  /++++++++/:--:/-      -  Java (Spring Boot, Maven, JVM)     |
-        o:+o+:++.`..```.-/oo+++++/     -  Python (FastAPI)                   |
-       .:+o:+o/.          `+sssoo+/    
-  .++/+:+oo+o:`             /sssooo.   Focus:
- /+++//+:`oo+o               /::--:.   -  Automation & CI/CD
- \+/+o+++`o++o               ++////.   -  Backend Systems & APIs
-  .++.o+++oo+:`             /dddhhh.   -  Reliability & System Design
-       .+.o+oo:.          `oddhhhh+
-        \+.++o+o``-````.:ohdhhhhh+     About me:
-         `:o+++ `ohhhhhhhhyo++os:      -  Junior Developer with focus on DevOps & backend systems
-           .o:`.syhhhhhhh/.oo++o`      -  Experience with CI/CD pipelines, Docker and API-based architectures
-               /osyyyyyyo++ooo+++/     -  Built a resilient middleware system for unreliable upstream services
-                   ````` +oo+++o\:     -  Strong interest in Kubernetes and Infrastructure as Code
-                          `oo++.       
+Junior Software Engineer with a focus on **backend development, APIs, system integration and development-oriented DevOps**.
+
+Qualified IT specialist for application development with hands-on project experience in **Java/Spring Boot, TypeScript/Node.js, REST APIs, PostgreSQL, Docker and GitHub Actions**.
+
+Currently based in Paderborn, Germany.
+
+## Technical Stack
+
+**Backend & APIs**
+- Java · Spring Boot · Maven
+- TypeScript · JavaScript · Node.js · Next.js API Routes
+- REST APIs · API Design · Validation
+
+**Data & Integration**
+- PostgreSQL · Prisma ORM
+- Data modelling · migrations
+- RabbitMQ · event-driven communication
+- External system integration
+
+**DevOps & Tools**
+- Docker · Docker Compose
+- Git · GitHub
+- GitHub Actions · CI fundamentals
+
+**Software Engineering**
+- Clean Code
+- Microservice fundamentals
+- Technical documentation
+- Scrum
+
+## Selected Projects
+
+### [E-Commerce Platform](https://github.com/atrebit/e-commerce-platform)
+
+Ongoing Java/Spring Boot portfolio project exploring modular backend architecture and service integration.
+
+- Java · Spring Boot · Maven
+- REST APIs
+- RabbitMQ
+- Docker Compose
+- Modular service architecture
+
+### [Dashboard Backend](https://github.com/atrebit/dashboard_backend)
+
+Backend service developed for a ServiceNow Platform Analytics dashboard use case.
+
+- TypeScript · Node.js
+- PostgreSQL · Prisma ORM
+- REST API
+- Scheduled data synchronization
+- Docker Compose
+- GitHub Actions build verification
+
+## Additional Background
+
+- Professional Scrum Master I (PSM I)
+- SAP S/4HANA 2023 User Certification – Foundation Level, with distinction
+- ServiceNow Platform Analytics project experience
+- German: native · English: fluent
+
+## Current Focus
+
+Backend architecture · API design · system integration · Docker · CI/CD fundamentals · resilient application design
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/fabio-boettcher)
 
 
 ``````
