@@ -8,8 +8,6 @@ Qualified IT specialist for application development with hands-on project experi
 <a href="https://www.credly.com/badges/34e67fee-bcd6-468e-96fa-80ecee251502" title="Professional Scrum Master™ I (PSM I)"><img src="https://images.credly.com/size/80x80/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" alt="Professional Scrum Master™ I (PSM I)" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
-**SAP User Certification – Foundation Level with SAP S/4HANA 2023, with distinction**
-
 Based in **Paderborn, Germany**.
 
 ## Technical Stack
@@ -68,7 +66,7 @@ Backend service developed for a ServiceNow Platform Analytics dashboard use case
 - ServiceNow Platform Analytics project experience
 - SAP S/4HANA 2023 user and process fundamentals
 - Professional Scrum Master I (PSM I)
-- German: native · English: fluent
+- German: native · English: fluent · Italian: basic
 
 ## Current Focus
 
