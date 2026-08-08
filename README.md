@@ -4,7 +4,12 @@ Junior Software Engineer with a focus on **backend development, APIs, system int
 
 Qualified IT specialist for application development with hands-on project experience in **Java/Spring Boot, TypeScript/Node.js, REST APIs, PostgreSQL, Docker and GitHub Actions**.
 
-Currently based in Paderborn, Germany.
+[![Professional Scrum Master I](https://img.shields.io/badge/Scrum.org-Professional%20Scrum%20Master%20I-009FDA)](https://www.scrum.org/certificates/1169194)
+![SAP User Certification](https://img.shields.io/badge/SAP-S%2F4HANA%202023%20User%20Certification-0FAAFF)
+
+**SAP User Certification – Foundation Level with SAP S/4HANA 2023, with distinction**
+
+Based in **Paderborn, Germany**.
 
 ## Technical Stack
 
